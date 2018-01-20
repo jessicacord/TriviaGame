@@ -1,0 +1,88 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+    text-align: center;
+}
+h2 {
+    font-family: 'Fugaz One', cursive;
+    color: #e7e7e7;
+}
+
+h3 {
+    font-family: 'Monoton', cursive;
+    font-size: 25px;
+    color: white;
+}
+h4 {
+    font-family: 'Ubuntu Mono', monospace;
+    color: #e7e7e7;
+    font-size: 25px;
+}
+p {
+    font-family: 'Ubuntu Mono', monospace;
+    color: white;
+    font-size: 18px;
+}
+
+.title {
+margin-top: 5%;
+}
+
+#eighties {
+    font-family: 'Monoton', cursive;
+    color: rgba(255, 255, 255, .7);
+    font-size: 90px;
+    z-index: 1;
+    display: inherit;
+    transform: rotate(-17deg);
+    margin-bottom: -40px;
+    text-shadow: 0 0 10px rgb(82, 191, 255);
+}
+#s {
+    font-size: 50px;
+}
+#trivia-title {
+    z-index: 20;
+    position: relative;
+    font-family: 'Codystar', cursive;
+    color: yellow;
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow: 0 0 8px white;
+}
+
+#timer {
+    height: 3rem;
+}
+
+#timer h3 {
+    font-size: 35px;
+}
+
+#start {
+    background-color: #73d0ff;
+    padding: 10px;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 35px;
+    color: white;
+    box-shadow: 0 0 20px white;
+}
+
+#answers {
+    list-style: none;
+}
+#answers button {
+    font-family: 'Ubuntu Mono', monospace;
+    background-color: rgba(255, 255, 255, .7);
+    font-size: 15px;
+    padding: 6px;
+    border: 0px;
+    margin: 4px;
+    width: 100%;
+}
+
+#game img{
+    width: 45%;
+}
+
+

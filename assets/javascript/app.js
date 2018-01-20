@@ -59,7 +59,7 @@ var triviaGame = {
         {
             question: "Faithfully",
             correctAnswer: "Journey",
-            answers: ["Foreigner","Steely Dan","Journey","U2"],
+            answers: ["Foreigner","Steely Dan","U2","Journey"],
             image: "assets/images/journey.jpg"
         },
         {
@@ -71,13 +71,13 @@ var triviaGame = {
         {
             question: "Reason To Live",
             correctAnswer: "KISS",
-            answers: ["Twisted Sister","Van Halen","KISS","Quiet Riot"],
+            answers: ["Twisted Sister","KISS","Van Halen","Quiet Riot"],
             image: "assets/images/kiss.jpg"
         },
         {
             question: "I Want To Know What Love Is",
             correctAnswer: "Foreigner",
-            answers: ["Rush","The Police","Foreigner","Boston"],
+            answers: ["Foreigner","Rush","The Police","Boston"],
             image: "assets/images/foreigner.jpg"
         }
 
